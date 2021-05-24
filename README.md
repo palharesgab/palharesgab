@@ -1,9 +1,16 @@
 ### Hi there, I'm **Gabriel Palhares** 👋
-🌱 I’m currently learning
+
+💬 About me:
+I am a software engineer student. I love programming, travelling and play in spare time.
+
+As a student, I spend a lot of time researching algorithms, data structures and programming languages. Also love learning about UX/UI and content more related to the user experience
+
+
+🌱 I’m currently learning:
 - Javascript
 - React.js
 - React-Native
-- UX/UI design
+- UX/UI
 - Nodejs
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielplhrs&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--
