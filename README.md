@@ -9,7 +9,6 @@ As a student, I spend a lot of time researching algorithms, data structures and 
 🌱 I’m currently learning:
 - Javascript
 - React.js
-- React-Native
 - UX/UI
 - Nodejs
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielplhrs&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
