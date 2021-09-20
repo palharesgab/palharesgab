@@ -8,9 +8,9 @@ As a student, I spend a lot of time researching algorithms, data structures and 
 
 🌱 I’m currently learning:
 - Javascript
-- React.js
-- UX/UI
-- Nodejs
+- C#
+- .NET
+- Scrum
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielplhrs&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--
 **gabrielplhrs/gabrielplhrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
