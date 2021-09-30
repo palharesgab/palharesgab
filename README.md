@@ -3,7 +3,7 @@
 💬 Sobre mim:
 Sou estudante de sistemas de informação. Adoro programar, jogar e trabalhar em projetos pessoais no tempo livre.
 
-As a student, I spend a lot of time researching algorithms, data structures and programming languages. Also love learning about UX/UI and content more related to the user experience
+Como estudante, passo boa parte do meu tempo revendo documentações, fazendo cursos e trabalhando em alguns projetos.
 
 
 Atualmente tenho estudado:
