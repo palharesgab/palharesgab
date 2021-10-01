@@ -11,4 +11,5 @@ Atualmente tenho estudado:
 - C#
 - Scrum
 - Angular
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielplhrs&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<a href="https://www.linkedin.com/in/gabriel-pizzani-palhares" /><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
