@@ -2,7 +2,8 @@
 <div>
   <a src="https://github.com/gabrielplhrs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielplhrs&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielplhrs&layout=compact&langs_count=16&theme=radical"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielplhrs&layout=compact&langs_count=16&theme=radical"/>
+  </a>
 </div>
   
 ##
