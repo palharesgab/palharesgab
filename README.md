@@ -1,4 +1,4 @@
-## Olá! Me chamo Gabriel, mas todo mundo me chama de **Palhares** 👋
+## Olá! Me chamo Gabriel, mas todo mundo me chama de **Palhares** 👋🐨
 
 <div>
   <a src="https://github.com/gabrielplhrs">
