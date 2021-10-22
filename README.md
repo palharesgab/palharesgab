@@ -1,7 +1,7 @@
-## Olá! Me chamo Gabriel, mas todo mundo me chama de **Palhares** 👋🐨
-- 🎒 Cursando Sistemas de Informação 4/8
-- 👨🏻‍💻 Estagiando em desenvolvimento
-- 📚 Estudando sobre Angular, C# e SCRUM
+## Hello! My name is Gabriel, but everyone call me Palhares 👋🐨
+- 🎒 Studying Software Engineering 4/8
+- 👨🏻‍💻 Internship in development
+- 📚 Focusing on Javascript, C# and Angular
 <div>
   <a src="https://github.com/gabrielplhrs">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielplhrs&show_icons=true&theme=radical"/>
