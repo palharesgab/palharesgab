@@ -1,5 +1,5 @@
 ## Hello! My name is Gabriel, but everyone call me Palhares 👋🐨
-- 🎒 Studying Software Engineering 4/8
+- 🎒 Studying Software Engineering 5/8
 - 👨🏻‍💻 Internship in development
 - 📚 Focusing on Javascript, C# and Angular
 <div>
