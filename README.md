@@ -15,7 +15,6 @@
    <a href="https://developer.mozilla.org/pt-BR/"/><img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
    <a href="https://www.typescriptlang.org/"/><img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
    <a href="https://angular.io/"/><img align="center" alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/angularjs/angularjs-original.svg"></a>
-   <a href="https://nodejs.org/en/"/><img align="center" alt="NodeJS" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>
 </div>
   
 ##
