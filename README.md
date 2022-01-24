@@ -1,7 +1,7 @@
 ## Hello! My name is Gabriel, but everyone call me Palhares 👋
 - 🎒 Studying Software Engineering 5/8
 - 👨🏻‍💻 Internship in development
-- 📚 Focusing on Javascript, C# and Angular
+- 📚 Focusing on Angular and C#
 <div>
   <a src="https://github.com/gabrielplhrs">
   <a href="https://github.com/gabrielplhrs"/><img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielplhrs&show_icons=true&theme=radical"/></a>
