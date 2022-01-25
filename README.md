@@ -1,7 +1,7 @@
-## Hello! My name is Gabriel, but everyone call me Palhares 👋
-- 🎒 Studying Software Engineering 5/8
-- 👨🏻‍💻 Internship in development
-- 📚 Focusing on Angular and C#
+## Olá, meu nome é Gabriel Palhares e sou um desenvolvedor 👋
+- 🎒 Cursando Sistemas de Informação 5/8
+- 👨🏻‍💻 Estagiando como desenvolvedor fullstack
+- 📚 Focado em aplicações web com Angular e .NET
 <div>
   <a src="https://github.com/gabrielplhrs">
   <a href="https://github.com/gabrielplhrs"/><img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielplhrs&show_icons=true&theme=radical"/></a>
