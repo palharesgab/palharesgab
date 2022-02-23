@@ -13,7 +13,8 @@
   
    <a href="https://angular.io/"/><img align="center" alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/angularjs/angularjs-original.svg"></a>
    <a href="https://dotnet.microsoft.com/en-us/download"/><img align="center" alt="dotnetcore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /></a>
-   <a href="https://nodejs.org/en/"/><img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
+   <a href="https://www.docker.com/"/><img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
+   <a href="https://git-scm.com/"/><img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
 
 </div>
   
