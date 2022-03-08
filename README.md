@@ -21,4 +21,4 @@
 
 <a href="https://www.linkedin.com/in/gabriel-pizzani-palhares" /><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/gabrielplhrs"/><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://dev.to/gabrielplhrs"/><img src="https://camo.githubusercontent.com/15a236082dff84a9b4bb1019d5f3353e9642f308607357178c2d688d3974ba45/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6465762e746f2d3041304130413f7374796c653d666f722d7468652d6261646765266c6f676f3d6465762d646f742d746f266c6f676f436f6c6f723d7768697465e"/></a>
+<a href="https://dev.to/gabrielplhrs"/><img src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg"/></a>
