@@ -1,9 +1,9 @@
 <b>Hey, my name is Gabriel and i am a developer 👋</b>
-<ul>
-  <li>🎒 Software Engineer student</li>
-  <li>👨🏻‍💻 Software Engineer Intern</li>
-  <li>📚 Currently learning C# and .NET</li>
-</ul>
+<div>
+  <p>🎒 Software Engineer student</p>
+  <p>👨🏻‍💻 Software Engineer Intern</p>
+  <p>📚 Currently learning C# and .NET</p>
+</div>
 <div>
   <a src="https://github.com/gabrielplhrs">
   <a href="https://github.com/gabrielplhrs"/><img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielplhrs&layout=compact&langs_count=16&theme=radical"/></a>
