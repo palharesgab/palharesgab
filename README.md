@@ -1,4 +1,4 @@
-## Olá, meu nome é Gabriel Palhares e sou um desenvolvedor 👋
+## Hey, my name is Gabriel and i am a developer 👋
 - 🎒 Software Engineer student
 - 👨🏻‍💻 Software Engineer Intern
 - 📚 Currently learning C# and .NET
