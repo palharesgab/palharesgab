@@ -9,7 +9,7 @@
   <a href="https://github.com/gabrielplhrs"/><img height="128em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielplhrs&layout=compact&langs_count=16&theme=radical"/></a>
   </a>
 </div>
-
+<br>
 <div>  
    <a href="https://angular.io/"/><img align="center" alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/angularjs/angularjs-original.svg"></a>
    <a href="https://dotnet.microsoft.com/en-us/download"/><img align="center" alt="dotnetcore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /></a>
