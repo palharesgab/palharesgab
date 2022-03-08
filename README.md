@@ -17,7 +17,7 @@
    <a href="https://git-scm.com/"/><img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
    <a href="https://www.typescriptlang.org/"/><img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
 </div>
-
+<br>
 <div>
   <a href="https://www.linkedin.com/in/gabriel-pizzani-palhares" /><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/gabrielplhrs"/><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
