@@ -1,4 +1,4 @@
-## Hey, my name is Gabriel and i am a developer 👋
+<h2>Hey, my name is Gabriel and i am a developer 👋</h2>
 - 🎒 Software Engineer student
 - 👨🏻‍💻 Software Engineer Intern
 - 📚 Currently learning C# and .NET
