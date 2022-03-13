@@ -4,6 +4,14 @@
   <p>👨🏻‍💻 Software Engineer Intern</p>
   <p>📚 Currently learning C# and .NET</p>
 </div>
+
+<div>
+  <h2>What I'm working on</h2>
+  <p></p>
+  <p></p>
+  <p></p>
+</div>
+
 <div>
   <a src="https://github.com/gabrielplhrs">
   <a href="https://github.com/gabrielplhrs"/><img height="128em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielplhrs&layout=compact&langs_count=16&theme=radical"/></a>
