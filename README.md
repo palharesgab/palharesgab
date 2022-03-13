@@ -5,12 +5,14 @@
   <p>📚 Currently learning C# and .NET</p>
 </div>
 
+<! ––  
 <div>
-  <h2>What I'm working on</h2>
+  <b>What I'm working on</b>
   <p></p>
   <p></p>
   <p></p>
 </div>
+––>
 
 <div>
   <a src="https://github.com/gabrielplhrs">
