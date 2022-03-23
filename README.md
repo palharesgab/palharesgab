@@ -2,7 +2,7 @@
 <div>
   <p>🎒 Software Engineer student</p>
   <p>👨🏻‍💻 Software Engineer Intern</p>
-  <p>📚 Currently learning C# and .NET</p>
+  <p>📚 Currently learning Angular and .NET</p>
 </div>
 
 <!---
