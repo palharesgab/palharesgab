@@ -1,7 +1,7 @@
 <b>Hey, my name is Gabriel and i am a developer 👋</b>
 <div>
   <p>🎒 Software Developer student</p>
-  <p>👨🏻‍💻 Software Developer Intern</p>
+  <p>👨🏻‍💻 Software Developer</p>
   <p>📚 Currently learning .NET</p>
 </div>
 
