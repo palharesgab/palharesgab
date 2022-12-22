@@ -2,7 +2,7 @@
 <div>
   <p>🎒 Software Developer student</p>
   <p>👨🏻‍💻 Software Developer I</p>
-  <p>📚 Currently learning .NET</p>
+  <p>📚 Currently learning .NET and AWS</p>
 </div>
 <br>
 <div>  
