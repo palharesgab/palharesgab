@@ -11,6 +11,12 @@ Comecei na programação aos meus 17 anos, introduzido com lógica de programaç
 
 Hoje tenho maior experiência com C# e sua implementação com .NET Core, segue as tecnologias com que trabalho/estudo:
 
+ <ol>
+<li>C#</li>
+<li>Telefone</li>
+<li>Endereço</li>
+<li>País</li>
+</ol>
 • C# 
 • .NET Core
 • xUnit
