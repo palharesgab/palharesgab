@@ -11,21 +11,17 @@ Comecei na programação aos meus 17 anos, introduzido com lógica de programaç
 
 Hoje tenho maior experiência com C# e sua implementação com .NET Core, segue as tecnologias com que trabalho/estudo:
 
- <ol>
-<li>C#</li>
-<li>Telefone</li>
-<li>Endereço</li>
-<li>País</li>
-</ol>
-• C# 
-• .NET Core
-• xUnit
-• SQL
-• API e padrões Rest
-• GitFlow
-• Oracle SQL
-• PL/SQL
-• Engenharia de Software (Algoritmos, Estrutura de dados, SOLID, Design Patterns, Testes unitários, DDD, Clean Code)
-• Estudando Docker & Kubernetes
-• Estudando AWS e seus serviços
+ <ul>
+   <li>C#</li>
+   <li>.NET Core</li>
+   <li>xUnit</li>
+   <li>SQL</li>
+   <li>API e padrões Rest</li>
+   <li>GitFlow</li>
+   <li>Oracle SQL</li>
+   <li>PL/SQL</li>
+   <li>Engenharia de Software (Algoritmos, Estrutura de dados, SOLID, Design Patterns, Testes unitários, DDD, Clean Code)</li>
+   <li>Estudando Docker & Kubernetes</li>
+   <li>Estudando AWS e seus serviços</li>
+</ul>
 </div>
