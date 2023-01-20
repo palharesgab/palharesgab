@@ -22,6 +22,6 @@ Today I have more experience with C# and its implementation with .NET Core, foll
    <li>PL/SQL</li>
    <li>Software Engineering (Algorithms, Data Structures, SOLID, Design Patterns, Unit Testing, DDD, Clean Code)</li>
    <li>Docker & Kubernetes</li>
-   <li>AWS e seus serviços</li>
+   <li>Amazon AWS</li>
 </ul>
 </div>
