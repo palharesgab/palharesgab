@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/gabriel-pizzani-palhares" /><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div style="margin-bottom:4px;>
+</div>
 
 <div>
 Olá, meu nome é Gabriel Palhares, mas todo mundo me chama de Palhares, tenho 21 anos e nasci em Vila Velha, ES.
