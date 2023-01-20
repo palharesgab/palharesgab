@@ -1,7 +1,7 @@
 <h1>Gabriel Palhares</h1>
 
 <div>
-Olá, meu nome é Gabriel Palhares, mas todo mundo me chama de Palhares, tenho 21 anos e nasci em Vila Velha, ES.
+Olá, meu nome é Gabriel Palhares, mas todo mundo me chama de Palhares, tenho 21 anos e nasci em Vila Velha, ES.<br>
 
  
 Comecei na programação aos meus 17 anos, introduzido com lógica de programação e fazendo programas de terminal em Python. Quando completei 18 anos, entrei na faculdade, e lá pude conhecer mais profundamente computação e ver diversas áreas de atuação na carreira de desenvolvimento de software. Tenho experiência com desenvolvimento fullstack, mas gosto de focar meus estudos no back-end e na cultura DevOps. Sou uma pessoa bem criativa, proativa, com senso crítico e muito organizado. 
