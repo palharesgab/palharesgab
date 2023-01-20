@@ -1,24 +1,29 @@
-<h1>Gabriel Palhares</h1>
+<h1>
+    Gabriel Palhares
+</h1>
 
 <div>
-Olá, meu nome é Gabriel Palhares, mas todo mundo me chama de Palhares, tenho 21 anos e nasci em Vila Velha, ES.<br>
-
+    Hello, my name is Gabriel Palhares, but everyone calls me Palhares, I am 21 years old and was born in Vila Velha, ES.
+</div>
  
-Comecei na programação aos meus 17 anos, introduzido com lógica de programação e fazendo programas de terminal em Python. Quando completei 18 anos, entrei na faculdade, e lá pude conhecer mais profundamente computação e ver diversas áreas de atuação na carreira de desenvolvimento de software. Tenho experiência com desenvolvimento fullstack, mas gosto de focar meus estudos no back-end e na cultura DevOps. Sou uma pessoa bem criativa, proativa, com senso crítico e muito organizado. 
+<div>
+I started in programming when I was 17, introduced to programming logic and making terminal programs in Python. When I turned 18, I went to college, and there I could learn more about computing and see several areas for a career in software development. I have experience with fullstack development, but I like to focus my studies on back-end and DevOps culture. I am a very creative, proactive, critical and organized person.
+</div>
 
-Hoje tenho maior experiência com C# e sua implementação com .NET Core, segue as tecnologias com que trabalho/estudo:
+<div>
+Today I have more experience with C# and its implementation with .NET Core, following are the technologies I work/study with:
 
  <ul>
    <li>C#</li>
    <li>.NET Core</li>
    <li>xUnit</li>
    <li>SQL</li>
-   <li>API e padrões Rest</li>
+   <li>Rest APIs</li>
    <li>GitFlow</li>
    <li>Oracle SQL</li>
    <li>PL/SQL</li>
-   <li>Engenharia de Software (Algoritmos, Estrutura de dados, SOLID, Design Patterns, Testes unitários, DDD, Clean Code)</li>
-   <li>Estudando Docker & Kubernetes</li>
-   <li>Estudando AWS e seus serviços</li>
+   <li>Software Engineering (Algorithms, Data Structures, SOLID, Design Patterns, Unit Testing, DDD, Clean Code)</li>
+   <li>Docker & Kubernetes</li>
+   <li>AWS e seus serviços</li>
 </ul>
 </div>
