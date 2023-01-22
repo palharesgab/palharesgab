@@ -1,8 +1,7 @@
-<h1>
-    Gabriel Palhares
-</h1>
+# Gabriel Palhares
 
-<div>
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 Hello, my name is Gabriel Palhares, but everyone calls me Palhares, I am 21 years old and was born in Vila Velha, ES.      
     
     
@@ -11,17 +10,3 @@ I started in programming when I was 17, introduced to programming logic and maki
     
 Today I have more experience with C# and its implementation with .NET Core, following are the technologies I work/study with:
 
- <ul>
-   <li>C#</li>
-   <li>.NET Core</li>
-   <li>xUnit</li>
-   <li>SQL</li>
-   <li>Rest APIs</li>
-   <li>GitFlow</li>
-   <li>Oracle SQL</li>
-   <li>PL/SQL</li>
-   <li>Software Engineering (Algorithms, Data Structures, SOLID, Design Patterns, Unit Testing, DDD, Clean Code)</li>
-   <li>Docker & Kubernetes</li>
-   <li>Amazon AWS</li>
-</ul>
-</div>
