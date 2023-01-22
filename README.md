@@ -10,6 +10,7 @@ I started in programming when I was 17, introduced to programming logic and maki
     
     
 Today I have more experience with C# and its implementation with .NET Core, following are the technologies I work/study with:
+
 • C# 
 
 • .NET Core
