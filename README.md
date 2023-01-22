@@ -1,6 +1,8 @@
 # Gabriel Palhares
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+Software Engineer
+![alt text]([http://url/to/img.png](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))
+
 
 Hello, my name is Gabriel Palhares, but everyone calls me Palhares, I am 21 years old and was born in Vila Velha, ES.      
     
