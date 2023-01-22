@@ -11,3 +11,14 @@ I started in programming when I was 17, introduced to programming logic and maki
     
 Today I have more experience with C# and its implementation with .NET Core.
 
+• C# 
+• .NET Core
+• xUnit
+• SQL
+• API e padrões Rest
+• GitFlow
+• Oracle SQL
+• PL/SQL
+• Engenharia de Software (Algoritmos, Estrutura de dados, SOLID, Design Patterns, Testes unitários, DDD, Clean Code)
+• Estudando Docker & Kubernetes
+• Estudando AWS e seus serviços
