@@ -26,8 +26,8 @@ Today I have more experience with C# and its implementation with .NET Core, foll
 
 • PL/SQL
 
-• Engenharia de Software (Algoritmos, Estrutura de dados, SOLID, Design Patterns, Testes unitários, DDD, Clean Code)
+• Software Engineering (Algorithms, Data Structures, SOLID, Design Patterns, Unit Testing, DDD, Clean Code)
 
-• Estudando Docker & Kubernetes
+• Studying Docker & Kubernetes
 
-• Estudando AWS e seus serviços
+• Studying Amazon AWS
