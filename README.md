@@ -1,6 +1,6 @@
 Sobre mim:
 
-• Atualmente trabalho coco desenvolvedor fullstack trabalhando com C# (.NET) e Angular 
+• Atualmente trabalho coco desenvolvedor fullstack trabalhando com C# (.NET) e Angular   
 • Estou no último ano da graduacao de Sistemas de Informacao  
 • Procuro conhecimento sobre toda as etapas do desenvolvimento de software
     
