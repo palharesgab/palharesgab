@@ -4,7 +4,7 @@ Sobre mim:
 • Estou no último ano da graduação de Sistemas de Informação  
 • Atualmente focando meus estudos em DevOps
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,sql,angular,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,angular,docker,aws)](https://skillicons.dev)
 
 
 
