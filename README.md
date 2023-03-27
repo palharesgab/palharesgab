@@ -4,7 +4,7 @@ Sobre mim:
 • Estou no último ano da graduação de Sistemas de Informação  
 • Atualmente focando meus estudos em DevOps
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter)](https://skillicons.dev)
 
 
 
