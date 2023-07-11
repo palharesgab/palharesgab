@@ -2,7 +2,7 @@ Sobre mim:
 
 • Atualmente trabalho como desenvolvedor fullstack, com C# (.NET) e Angular  
 • Estou no último ano da graduação de Sistemas de Informação  
-• Atualmente focando meus estudos em Arquitetura .NET e Algoritmo e estrutura de dados.
+• Atualmente focando meus estudos em Arquitetura .NET, Algoritmos e estrutura de dados.
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,docker,aws)]()
 
