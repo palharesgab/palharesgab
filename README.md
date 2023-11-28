@@ -1,7 +1,6 @@
 Sobre mim:
 
 <li>Atualmente trabalho como desenvolvedor C# (.NET).<li>
-
 <li>Estou no último ano da graduação de Sistemas de Informação  <li>
 <li>Atualmente focando meus estudos em Arquitetura .NET, Algoritmos e estrutura de dados.<li>
 
