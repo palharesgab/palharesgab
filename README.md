@@ -4,6 +4,7 @@ Sobre mim:
 <li>Estou no último ano da graduação de Sistemas de Informação  </li>
 <li>Atualmente focando meus estudos em Arquitetura .NET, Algoritmos e estrutura de dados.</li>
 
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)]()
 
