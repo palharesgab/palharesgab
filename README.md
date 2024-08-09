@@ -1,8 +1,8 @@
 Sobre mim:
 
-<li>Atualmente trabalho como desenvolvedor C# (.NET).</li>
+<li>Desenvolvedor back-end</li>
 <li>Mestrando em Computação</li>
-<li>Atualmente focando meus estudos em Engenharia de Software Contínua e algoritmos recursivos.</li>
+<li>Atualmente focando meus estudos em Engenharia de Software Contínua e System Design</li>
 
 <br>
 
