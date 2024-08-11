@@ -2,7 +2,7 @@ Sobre mim:
 
 <li>Desenvolvedor back-end</li>
 <li>Mestrando em Computação</li>
-<li>Atualmente focando meus estudos em Engenharia de Software Contínua e System Design</li>
+<li>Atualmente focando meus estudos em Arquitetura de software e System Design</li>
 
 <br>
 
