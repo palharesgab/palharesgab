@@ -1,8 +1,8 @@
 Sobre mim:
 
-<li>Desenvolvedor back-end</li>
-<li>Mestrando em Computação</li>
-<li>Atualmente focando meus estudos em Arquitetura de software e System Design</li>
+<li>Software Engineer</li>
+<li>Currently in M.S. in Information Systems and Informatics</li>
+<li>:brazil::us::de:</li>
 
 <br>
 
