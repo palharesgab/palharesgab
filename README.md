@@ -2,7 +2,6 @@ Sobre mim:
 
 <li>Software Engineer</li>
 <li>Currently in M.S. in Information Systems and Informatics</li>
-<li>:brazil::us::de:</li>
 
 <br>
 
