@@ -1,7 +1,7 @@
 Sobre mim:
 
 <li>Software Engineer</li>
-<li>Currently in M.S. in Information Systems and Informatics</li>
+<li>Studying for a master's degree in Information Systems and Informatics</li>
 
 <br>
 
