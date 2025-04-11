@@ -1,4 +1,4 @@
-Sobre mim:
+About:
 
 <li>Software Engineer</li>
 <li>Studying for a master's degree in Information Systems and Informatics</li>
