@@ -1,7 +1,8 @@
 About:
 
-<li>Software Engineer</li>
-<li>Studying for a master's degree in Information Systems and Informatics</li>
+<li>Interested in Financial services, Software engineer for 3+ years mainly focused on backend development with .NET, working on highly available solutions. I also have a degree in information systems and currently studying for a master degree in Informatics.
+</li>
+<li>My main stack is in C#, using .NET (5,6,7,8, Core and Framework), developing API's, serverless functions, workers, publishers, consumers and batch patch processors, and microservices.</li>
 
 <br>
 
